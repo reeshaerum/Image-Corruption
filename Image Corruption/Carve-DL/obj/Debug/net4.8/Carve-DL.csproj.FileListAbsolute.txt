@@ -1,0 +1,5 @@
+E:\Image Corruption\Carve-DL\obj\Debug\net4.8\Carve-DL.csproj.AssemblyReference.cache
+E:\Image Corruption\Carve-DL\obj\Debug\net4.8\Carve-DL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Image Corruption\Carve-DL\obj\Debug\net4.8\Carve-DL.AssemblyInfoInputs.cache
+E:\Image Corruption\Carve-DL\obj\Debug\net4.8\Carve-DL.AssemblyInfo.cs
+E:\Image Corruption\Carve-DL\obj\Debug\net4.8\Carve-DL.csproj.CoreCompileInputs.cache

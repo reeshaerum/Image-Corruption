@@ -1,0 +1,44 @@
+E:\Test\Carve-DL\bin\Debug\net6.0\Carve-DL.exe
+E:\Test\Carve-DL\bin\Debug\net6.0\Carve-DL.deps.json
+E:\Test\Carve-DL\bin\Debug\net6.0\Carve-DL.runtimeconfig.json
+E:\Test\Carve-DL\bin\Debug\net6.0\Carve-DL.dll
+E:\Test\Carve-DL\bin\Debug\net6.0\Carve-DL.pdb
+E:\Test\Carve-DL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Test\Carve-DL\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Test\Carve-DL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Test\Carve-DL\obj\Debug\net6.0\Carve-DL.csproj.AssemblyReference.cache
+E:\Test\Carve-DL\obj\Debug\net6.0\Carve-DL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test\Carve-DL\obj\Debug\net6.0\Carve-DL.AssemblyInfoInputs.cache
+E:\Test\Carve-DL\obj\Debug\net6.0\Carve-DL.AssemblyInfo.cs
+E:\Test\Carve-DL\obj\Debug\net6.0\Carve-DL.csproj.CoreCompileInputs.cache
+E:\Test\Carve-DL\obj\Debug\net6.0\Carve-DL.csproj.CopyComplete
+E:\Test\Carve-DL\obj\Debug\net6.0\Carve-DL.dll
+E:\Test\Carve-DL\obj\Debug\net6.0\refint\Carve-DL.dll
+E:\Test\Carve-DL\obj\Debug\net6.0\Carve-DL.pdb
+E:\Test\Carve-DL\obj\Debug\net6.0\Carve-DL.genruntimeconfig.cache
+E:\Test\Carve-DL\obj\Debug\net6.0\ref\Carve-DL.dll
+E:\Test\Carve-DL\bin\Debug\net6.0\MetadataExtractor.dll
+E:\Test\Carve-DL\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+E:\Test\Carve-DL\bin\Debug\net6.0\XmpCore.dll
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\Carve-DL.exe
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\MetadataExtractor.dll
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\XmpCore.dll
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\Carve-DL.csproj.AssemblyReference.cache
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\Carve-DL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\Carve-DL.AssemblyInfoInputs.cache
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\Carve-DL.AssemblyInfo.cs
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\Carve-DL.csproj.CoreCompileInputs.cache
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\Carve-DL.csproj.CopyComplete
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\Carve-DL.dll
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\refint\Carve-DL.dll
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\Carve-DL.pdb
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\Carve-DL.deps.json
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\Carve-DL.runtimeconfig.json
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\Carve-DL.dll
+E:\Image Corruption\Carve-DL\bin\Debug\net6.0\Carve-DL.pdb
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\Carve-DL.genruntimeconfig.cache
+E:\Image Corruption\Carve-DL\obj\Debug\net6.0\ref\Carve-DL.dll

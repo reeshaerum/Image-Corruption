@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "MRE3qVkQB5Y9c+oTbKASel3gg/VkS+Qx13q0RDlQOb4VGmDs6DtCv+sUV1Pl9fv2g50mOiEnhEkYpcxNz9mioA==",
+  "success": true,
+  "projectFilePath": "E:\\Image Corruption\\Carve-DL\\Carve-DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reesha\\.nuget\\packages\\metadataextractor\\2.8.1\\metadataextractor.2.8.1.nupkg.sha512",
+    "C:\\Users\\Reesha\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Reesha\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Reesha\\.nuget\\packages\\sixlabors.imagesharp\\3.1.0\\sixlabors.imagesharp.3.1.0.nupkg.sha512",
+    "C:\\Users\\Reesha\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Reesha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Reesha\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Reesha\\.nuget\\packages\\xmpcore\\6.1.10.1\\xmpcore.6.1.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}
